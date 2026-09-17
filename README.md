@@ -6,13 +6,13 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 
 | Difficulty | Count |
 | :--- | :--- |
-| 🟢 **Easy** | 113 |
-| 🟡 **Medium** | 72 |
+| 🟢 **Easy** | 124 |
+| 🟡 **Medium** | 77 |
 | 🔴 **Hard** | 5 |
-| 🏆 **Total Solved** | **190** |
+| 🏆 **Total Solved** | **206** |
 
 ### Languages
-`Java: 94` • `Python3: 89` • `Python: 4` • `Bash: 3`
+`Java: 106` • `Python3: 90` • `Python: 4` • `MySQL: 3` • `Bash: 3`
 
 ---
 
@@ -20,8 +20,8 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 
 | # | Title | Difficulty | Language | Synced |
 | :-: | :--- | :--- | :--- | :--- |
-|  | [Submission #1719677826](LeetCode/-happy-number/solution.py) | Medium | Python3 | 2026-09-17 |
-| 1 | [Two Sum](LeetCode/1-two-sum/solution.py) | Easy | Python | 2026-09-17 |
+|  | [Submission #1578677778](LeetCode/-search-in-rotated-sorted-array-ii/solution.py) | Medium | Python3 | 2026-09-17 |
+| 1 | [Submission #1578978613](LeetCode/1-1-bit-and-2-bit-characters/solution.py) | Medium | Python3 | 2026-09-17 |
 | 2 | [Add Two Numbers](LeetCode/2-add-two-numbers/solution.java) | Medium | Java | 2026-09-17 |
 | 3 | [Longest Substring Without Repeating Characters](LeetCode/3-longest-substring-without-repeating-characters/solution.py) | Medium | Python3 | 2026-09-17 |
 | 4 | [Median of Two Sorted Arrays](LeetCode/4-median-of-two-sorted-arrays/solution.py) | Hard | Python3 | 2026-09-17 |
@@ -36,7 +36,10 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 14 | [Longest Common Prefix](LeetCode/14-longest-common-prefix/solution.py) | Easy | Python3 | 2026-09-17 |
 | 15 | [3Sum](LeetCode/15-3sum/solution.java) | Medium | Java | 2026-09-17 |
 | 17 | [Letter Combinations of a Phone Number](LeetCode/17-letter-combinations-of-a-phone-number/solution.py) | Medium | Python3 | 2026-09-17 |
+| 19 | [Remove Nth Node From End of List](LeetCode/19-remove-nth-node-from-end-of-list/solution.java) | Medium | Java | 2026-09-17 |
 | 20 | [Valid Parentheses](LeetCode/20-valid-parentheses/solution.java) | Easy | Java | 2026-09-17 |
+| 21 | [Merge Two Sorted Lists](LeetCode/21-merge-two-sorted-lists/solution.java) | Easy | Java | 2026-09-17 |
+| 24 | [Swap Nodes in Pairs](LeetCode/24-swap-nodes-in-pairs/solution.java) | Medium | Java | 2026-09-17 |
 | 26 | [Remove Duplicates from Sorted Array](LeetCode/26-remove-duplicates-from-sorted-array/solution.java) | Easy | Java | 2026-09-17 |
 | 27 | [Remove Element](LeetCode/27-remove-element/solution.java) | Easy | Java | 2026-09-17 |
 | 28 | [Find the Index of the First Occurrence in a String](LeetCode/28-find-the-index-of-the-first-occurrence-in-a-string/solution.java) | Easy | Java | 2026-09-17 |
@@ -52,6 +55,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 53 | [Maximum Subarray](LeetCode/53-maximum-subarray/solution.py) | Medium | Python3 | 2026-09-17 |
 | 58 | [Length of Last Word](LeetCode/58-length-of-last-word/solution.java) | Easy | Java | 2026-09-17 |
 | 66 | [Plus One](LeetCode/66-plus-one/solution.py) | Easy | Python3 | 2026-09-17 |
+| 67 | [Add Binary](LeetCode/67-add-binary/solution.java) | Easy | Java | 2026-09-17 |
 | 69 | [Sqrt(x)](LeetCode/69-sqrtx/solution.py) | Easy | Python3 | 2026-09-17 |
 | 70 | [Climbing Stairs](LeetCode/70-climbing-stairs/solution.java) | Easy | Java | 2026-09-17 |
 | 74 | [Search a 2D Matrix](LeetCode/74-search-a-2d-matrix/solution.java) | Medium | Java | 2026-09-17 |
@@ -59,6 +63,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 81 | [Search in Rotated Sorted Array II](LeetCode/81-search-in-rotated-sorted-array-ii/solution.java) | Medium | Java | 2026-09-17 |
 | 82 | [Remove Duplicates from Sorted List II](LeetCode/82-remove-duplicates-from-sorted-list-ii/solution.py) | Medium | Python3 | 2026-09-17 |
 | 83 | [Remove Duplicates from Sorted List](LeetCode/83-remove-duplicates-from-sorted-list/solution.py) | Easy | Python | 2026-09-17 |
+| 88 | [Merge Sorted Array](LeetCode/88-merge-sorted-array/solution.java) | Easy | Java | 2026-09-17 |
 | 92 | [Reverse Linked List II](LeetCode/92-reverse-linked-list-ii/solution.java) | Medium | Java | 2026-09-17 |
 | 98 | [Validate Binary Search Tree](LeetCode/98-validate-binary-search-tree/solution.java) | Medium | Java | 2026-09-17 |
 | 100 | [Same Tree](LeetCode/100-same-tree/solution.java) | Easy | Java | 2026-09-17 |
@@ -71,6 +76,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 118 | [Pascal's Triangle](LeetCode/118-pascals-triangle/solution.py) | Easy | Python3 | 2026-09-17 |
 | 121 | [Best Time to Buy and Sell Stock](LeetCode/121-best-time-to-buy-and-sell-stock/solution.java) | Easy | Java | 2026-09-17 |
 | 125 | [Valid Palindrome](LeetCode/125-valid-palindrome/solution.py) | Easy | Python3 | 2026-09-17 |
+| 136 | [Single Number](LeetCode/136-single-number/solution.java) | Easy | Java | 2026-09-17 |
 | 141 | [Linked List Cycle](LeetCode/141-linked-list-cycle/solution.java) | Easy | Java | 2026-09-17 |
 | 147 | [Insertion Sort List](LeetCode/147-insertion-sort-list/solution.java) | Medium | Java | 2026-09-17 |
 | 148 | [Sort List](LeetCode/148-sort-list/solution.java) | Medium | Java | 2026-09-17 |
@@ -85,13 +91,17 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 193 | [Valid Phone Numbers](LeetCode/193-valid-phone-numbers/solution.sh) | Easy | Bash | 2026-09-17 |
 | 195 | [Tenth Line](LeetCode/195-tenth-line/solution.sh) | Easy | Bash | 2026-09-17 |
 | 199 | [Binary Tree Right Side View](LeetCode/199-binary-tree-right-side-view/solution.py) | Medium | Python3 | 2026-09-17 |
+| 203 | [Remove Linked List Elements](LeetCode/203-remove-linked-list-elements/solution.java) | Easy | Java | 2026-09-17 |
+| 205 | [Isomorphic Strings](LeetCode/205-isomorphic-strings/solution.java) | Easy | Java | 2026-09-17 |
 | 206 | [Reverse Linked List](LeetCode/206-reverse-linked-list/solution.java) | Easy | Java | 2026-09-17 |
 | 215 | [Kth Largest Element in an Array](LeetCode/215-kth-largest-element-in-an-array/solution.py) | Medium | Python3 | 2026-09-17 |
 | 217 | [Contains Duplicate](LeetCode/217-contains-duplicate/solution.py) | Easy | Python3 | 2026-09-17 |
 | 222 | [Count Complete Tree Nodes](LeetCode/222-count-complete-tree-nodes/solution.java) | Medium | Java | 2026-09-17 |
 | 225 | [Implement Stack using Queues](LeetCode/225-implement-stack-using-queues/solution.py) | Easy | Python3 | 2026-09-17 |
 | 227 | [Basic Calculator II](LeetCode/227-basic-calculator-ii/solution.py) | Medium | Python3 | 2026-09-17 |
+| 231 | [Power of Two](LeetCode/231-power-of-two/solution.java) | Easy | Java | 2026-09-17 |
 | 232 | [Implement Queue using Stacks](LeetCode/232-implement-queue-using-stacks/solution.py) | Easy | Python3 | 2026-09-17 |
+| 234 | [Palindrome Linked List](LeetCode/234-palindrome-linked-list/solution.java) | Easy | Java | 2026-09-17 |
 | 237 | [Delete Node in a Linked List](LeetCode/237-delete-node-in-a-linked-list/solution.java) | Medium | Java | 2026-09-17 |
 | 238 | [Product of Array Except Self](LeetCode/238-product-of-array-except-self/solution.py) | Medium | Python3 | 2026-09-17 |
 | 242 | [Valid Anagram](LeetCode/242-valid-anagram/solution.py) | Easy | Python3 | 2026-09-17 |
@@ -99,6 +109,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 263 | [Ugly Number](LeetCode/263-ugly-number/solution.java) | Easy | Java | 2026-09-17 |
 | 268 | [Missing Number](LeetCode/268-missing-number/solution.java) | Easy | Java | 2026-09-17 |
 | 283 | [Move Zeroes](LeetCode/283-move-zeroes/solution.java) | Easy | Java | 2026-09-17 |
+| 290 | [Word Pattern](LeetCode/290-word-pattern/solution.java) | Easy | Java | 2026-09-17 |
 | 300 | [Longest Increasing Subsequence](LeetCode/300-longest-increasing-subsequence/solution.py) | Medium | Python | 2026-09-17 |
 | 326 | [Power of Three](LeetCode/326-power-of-three/solution.java) | Easy | Java | 2026-09-17 |
 | 328 | [Odd Even Linked List](LeetCode/328-odd-even-linked-list/solution.java) | Medium | Java | 2026-09-17 |
@@ -134,8 +145,11 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 567 | [Permutation in String](LeetCode/567-permutation-in-string/solution.py) | Medium | Python3 | 2026-09-17 |
 | 572 | [Subtree of Another Tree](LeetCode/572-subtree-of-another-tree/solution.java) | Easy | Java | 2026-09-17 |
 | 583 | [Delete Operation for Two Strings](LeetCode/583-delete-operation-for-two-strings/solution.py) | Medium | Python3 | 2026-09-17 |
+| 584 | [Find Customer Referee](LeetCode/584-find-customer-referee/solution.sql) | Easy | MySQL | 2026-09-17 |
 | 606 | [Construct String from Binary Tree](LeetCode/606-construct-string-from-binary-tree/solution.py) | Medium | Python3 | 2026-09-17 |
+| 610 | [Triangle Judgement](LeetCode/610-triangle-judgement/solution.sql) | Easy | MySQL | 2026-09-17 |
 | 617 | [Merge Two Binary Trees](LeetCode/617-merge-two-binary-trees/solution.java) | Easy | Java | 2026-09-17 |
+| 622 | [Design Circular Queue](LeetCode/622-design-circular-queue/solution.py) | Medium | Python | 2026-09-17 |
 | 624 | [Maximum Distance in Arrays](LeetCode/624-maximum-distance-in-arrays/solution.py) | Medium | Python3 | 2026-09-17 |
 | 643 | [Maximum Average Subarray I](LeetCode/643-maximum-average-subarray-i/solution.py) | Easy | Python3 | 2026-09-17 |
 | 657 | [Robot Return to Origin](LeetCode/657-robot-return-to-origin/solution.java) | Easy | Java | 2026-09-17 |
@@ -143,6 +157,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 682 | [Baseball Game](LeetCode/682-baseball-game/solution.java) | Easy | Java | 2026-09-17 |
 | 700 | [Search in a Binary Search Tree](LeetCode/700-search-in-a-binary-search-tree/solution.java) | Easy | Java | 2026-09-17 |
 | 704 | [Binary Search](LeetCode/704-binary-search/solution.java) | Easy | Java | 2026-09-17 |
+| 707 | [Design Linked List](LeetCode/707-design-linked-list/solution.java) | Medium | Java | 2026-09-17 |
 | 709 | [To Lower Case](LeetCode/709-to-lower-case/solution.java) | Easy | Java | 2026-09-17 |
 | 717 | [1-bit and 2-bit Characters](LeetCode/717-1-bit-and-2-bit-characters/solution.java) | Easy | Java | 2026-09-17 |
 | 724 | [Find Pivot Index](LeetCode/724-find-pivot-index/solution.py) | Easy | Python3 | 2026-09-17 |
@@ -167,6 +182,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 1189 | [Maximum Number of Balloons](LeetCode/1189-maximum-number-of-balloons/solution.py) | Easy | Python3 | 2026-09-17 |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](LeetCode/1217-minimum-cost-to-move-chips-to-the-same-position/solution.java) | Easy | Java | 2026-09-17 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](LeetCode/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | Easy | Java | 2026-09-17 |
+| 1378 | [Replace Employee ID With The Unique Identifier](LeetCode/1378-replace-employee-id-with-the-unique-identifier/solution.sql) | Easy | MySQL | 2026-09-17 |
 | 1408 | [String Matching in an Array](LeetCode/1408-string-matching-in-an-array/solution.py) | Easy | Python3 | 2026-09-17 |
 | 1446 | [Consecutive Characters](LeetCode/1446-consecutive-characters/solution.java) | Easy | Java | 2026-09-17 |
 | 1480 | [Running Sum of 1d Array](LeetCode/1480-running-sum-of-1d-array/solution.java) | Easy | Java | 2026-09-17 |
