@@ -6,13 +6,13 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 
 | Difficulty | Count |
 | :--- | :--- |
-| 🟢 **Easy** | 124 |
-| 🟡 **Medium** | 77 |
+| 🟢 **Easy** | 130 |
+| 🟡 **Medium** | 85 |
 | 🔴 **Hard** | 5 |
-| 🏆 **Total Solved** | **206** |
+| 🏆 **Total Solved** | **220** |
 
 ### Languages
-`Java: 106` • `Python3: 90` • `Python: 4` • `MySQL: 3` • `Bash: 3`
+`Java: 110` • `Python3: 90` • `Python: 9` • `MySQL: 8` • `Bash: 3`
 
 ---
 
@@ -20,8 +20,8 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 
 | # | Title | Difficulty | Language | Synced |
 | :-: | :--- | :--- | :--- | :--- |
-|  | [Submission #1578677778](LeetCode/-search-in-rotated-sorted-array-ii/solution.py) | Medium | Python3 | 2026-09-17 |
-| 1 | [Submission #1578978613](LeetCode/1-1-bit-and-2-bit-characters/solution.py) | Medium | Python3 | 2026-09-17 |
+|  | [Submission #1719123850](LeetCode/-find-the-encrypted-string/solution.py) | Medium | Python3 | 2026-09-17 |
+| 1 | [Two Sum](LeetCode/1-two-sum/solution.py) | Easy | Python | 2026-09-17 |
 | 2 | [Add Two Numbers](LeetCode/2-add-two-numbers/solution.java) | Medium | Java | 2026-09-17 |
 | 3 | [Longest Substring Without Repeating Characters](LeetCode/3-longest-substring-without-repeating-characters/solution.py) | Medium | Python3 | 2026-09-17 |
 | 4 | [Median of Two Sorted Arrays](LeetCode/4-median-of-two-sorted-arrays/solution.py) | Hard | Python3 | 2026-09-17 |
@@ -54,11 +54,13 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 50 | [Pow(x, n)](LeetCode/50-powx-n/solution.java) | Medium | Java | 2026-09-17 |
 | 53 | [Maximum Subarray](LeetCode/53-maximum-subarray/solution.py) | Medium | Python3 | 2026-09-17 |
 | 58 | [Length of Last Word](LeetCode/58-length-of-last-word/solution.java) | Easy | Java | 2026-09-17 |
+| 61 | [Rotate List](LeetCode/61-rotate-list/solution.py) | Medium | Python | 2026-09-17 |
 | 66 | [Plus One](LeetCode/66-plus-one/solution.py) | Easy | Python3 | 2026-09-17 |
 | 67 | [Add Binary](LeetCode/67-add-binary/solution.java) | Easy | Java | 2026-09-17 |
 | 69 | [Sqrt(x)](LeetCode/69-sqrtx/solution.py) | Easy | Python3 | 2026-09-17 |
 | 70 | [Climbing Stairs](LeetCode/70-climbing-stairs/solution.java) | Easy | Java | 2026-09-17 |
 | 74 | [Search a 2D Matrix](LeetCode/74-search-a-2d-matrix/solution.java) | Medium | Java | 2026-09-17 |
+| 75 | [Sort Colors](LeetCode/75-sort-colors/solution.java) | Medium | Java | 2026-09-17 |
 | 78 | [Subsets](LeetCode/78-subsets/solution.py) | Medium | Python3 | 2026-09-17 |
 | 81 | [Search in Rotated Sorted Array II](LeetCode/81-search-in-rotated-sorted-array-ii/solution.java) | Medium | Java | 2026-09-17 |
 | 82 | [Remove Duplicates from Sorted List II](LeetCode/82-remove-duplicates-from-sorted-list-ii/solution.py) | Medium | Python3 | 2026-09-17 |
@@ -71,6 +73,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 102 | [Binary Tree Level Order Traversal](LeetCode/102-binary-tree-level-order-traversal/solution.py) | Medium | Python3 | 2026-09-17 |
 | 104 | [Maximum Depth of Binary Tree](LeetCode/104-maximum-depth-of-binary-tree/solution.java) | Easy | Java | 2026-09-17 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](LeetCode/105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.py) | Medium | Python3 | 2026-09-17 |
+| 108 | [Convert Sorted Array to Binary Search Tree](LeetCode/108-convert-sorted-array-to-binary-search-tree/solution.py) | Easy | Python | 2026-09-17 |
 | 110 | [Balanced Binary Tree](LeetCode/110-balanced-binary-tree/solution.java) | Easy | Java | 2026-09-17 |
 | 112 | [Path Sum](LeetCode/112-path-sum/solution.java) | Easy | Java | 2026-09-17 |
 | 118 | [Pascal's Triangle](LeetCode/118-pascals-triangle/solution.py) | Easy | Python3 | 2026-09-17 |
@@ -86,12 +89,17 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 167 | [Two Sum II - Input Array Is Sorted](LeetCode/167-two-sum-ii-input-array-is-sorted/solution.py) | Medium | Python3 | 2026-09-17 |
 | 168 | [Excel Sheet Column Title](LeetCode/168-excel-sheet-column-title/solution.py) | Easy | Python3 | 2026-09-17 |
 | 171 | [Excel Sheet Column Number](LeetCode/171-excel-sheet-column-number/solution.py) | Easy | Python3 | 2026-09-17 |
+| 175 | [Combine Two Tables](LeetCode/175-combine-two-tables/solution.sql) | Easy | MySQL | 2026-09-17 |
+| 176 | [Second Highest Salary](LeetCode/176-second-highest-salary/solution.sql) | Medium | MySQL | 2026-09-17 |
+| 177 | [Nth Highest Salary](LeetCode/177-nth-highest-salary/solution.sql) | Medium | MySQL | 2026-09-17 |
+| 178 | [Rank Scores](LeetCode/178-rank-scores/solution.sql) | Medium | MySQL | 2026-09-17 |
 | 189 | [Rotate Array](LeetCode/189-rotate-array/solution.py) | Medium | Python3 | 2026-09-17 |
 | 192 | [Word Frequency](LeetCode/192-word-frequency/solution.sh) | Medium | Bash | 2026-09-17 |
 | 193 | [Valid Phone Numbers](LeetCode/193-valid-phone-numbers/solution.sh) | Easy | Bash | 2026-09-17 |
 | 195 | [Tenth Line](LeetCode/195-tenth-line/solution.sh) | Easy | Bash | 2026-09-17 |
 | 199 | [Binary Tree Right Side View](LeetCode/199-binary-tree-right-side-view/solution.py) | Medium | Python3 | 2026-09-17 |
 | 203 | [Remove Linked List Elements](LeetCode/203-remove-linked-list-elements/solution.java) | Easy | Java | 2026-09-17 |
+| 204 | [Count Primes](LeetCode/204-count-primes/solution.java) | Medium | Java | 2026-09-17 |
 | 205 | [Isomorphic Strings](LeetCode/205-isomorphic-strings/solution.java) | Easy | Java | 2026-09-17 |
 | 206 | [Reverse Linked List](LeetCode/206-reverse-linked-list/solution.java) | Easy | Java | 2026-09-17 |
 | 215 | [Kth Largest Element in an Array](LeetCode/215-kth-largest-element-in-an-array/solution.py) | Medium | Python3 | 2026-09-17 |
@@ -111,9 +119,11 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 283 | [Move Zeroes](LeetCode/283-move-zeroes/solution.java) | Easy | Java | 2026-09-17 |
 | 290 | [Word Pattern](LeetCode/290-word-pattern/solution.java) | Easy | Java | 2026-09-17 |
 | 300 | [Longest Increasing Subsequence](LeetCode/300-longest-increasing-subsequence/solution.py) | Medium | Python | 2026-09-17 |
+| 316 | [Remove Duplicate Letters](LeetCode/316-remove-duplicate-letters/solution.py) | Medium | Python | 2026-09-17 |
 | 326 | [Power of Three](LeetCode/326-power-of-three/solution.java) | Easy | Java | 2026-09-17 |
 | 328 | [Odd Even Linked List](LeetCode/328-odd-even-linked-list/solution.java) | Medium | Java | 2026-09-17 |
 | 330 | [Patching Array](LeetCode/330-patching-array/solution.py) | Hard | Python3 | 2026-09-17 |
+| 342 | [Power of Four](LeetCode/342-power-of-four/solution.java) | Easy | Java | 2026-09-17 |
 | 344 | [Reverse String](LeetCode/344-reverse-string/solution.py) | Easy | Python3 | 2026-09-17 |
 | 345 | [Reverse Vowels of a String](LeetCode/345-reverse-vowels-of-a-string/solution.py) | Easy | Python3 | 2026-09-17 |
 | 371 | [Sum of Two Integers](LeetCode/371-sum-of-two-integers/solution.java) | Medium | Java | 2026-09-17 |
@@ -129,6 +139,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 434 | [Number of Segments in a String](LeetCode/434-number-of-segments-in-a-string/solution.py) | Easy | Python3 | 2026-09-17 |
 | 438 | [Find All Anagrams in a String](LeetCode/438-find-all-anagrams-in-a-string/solution.java) | Medium | Java | 2026-09-17 |
 | 443 | [String Compression](LeetCode/443-string-compression/solution.py) | Medium | Python3 | 2026-09-17 |
+| 445 | [Add Two Numbers II](LeetCode/445-add-two-numbers-ii/solution.py) | Medium | Python | 2026-09-17 |
 | 450 | [Delete Node in a BST](LeetCode/450-delete-node-in-a-bst/solution.py) | Medium | Python3 | 2026-09-17 |
 | 453 | [Minimum Moves to Equal Array Elements](LeetCode/453-minimum-moves-to-equal-array-elements/solution.py) | Medium | Python3 | 2026-09-17 |
 | 457 | [Circular Array Loop](LeetCode/457-circular-array-loop/solution.py) | Medium | Python3 | 2026-09-17 |
@@ -144,6 +155,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 560 | [Subarray Sum Equals K](LeetCode/560-subarray-sum-equals-k/solution.py) | Medium | Python3 | 2026-09-17 |
 | 567 | [Permutation in String](LeetCode/567-permutation-in-string/solution.py) | Medium | Python3 | 2026-09-17 |
 | 572 | [Subtree of Another Tree](LeetCode/572-subtree-of-another-tree/solution.java) | Easy | Java | 2026-09-17 |
+| 577 | [Employee Bonus](LeetCode/577-employee-bonus/solution.sql) | Easy | MySQL | 2026-09-17 |
 | 583 | [Delete Operation for Two Strings](LeetCode/583-delete-operation-for-two-strings/solution.py) | Medium | Python3 | 2026-09-17 |
 | 584 | [Find Customer Referee](LeetCode/584-find-customer-referee/solution.sql) | Easy | MySQL | 2026-09-17 |
 | 606 | [Construct String from Binary Tree](LeetCode/606-construct-string-from-binary-tree/solution.py) | Medium | Python3 | 2026-09-17 |
@@ -182,6 +194,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 1189 | [Maximum Number of Balloons](LeetCode/1189-maximum-number-of-balloons/solution.py) | Easy | Python3 | 2026-09-17 |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](LeetCode/1217-minimum-cost-to-move-chips-to-the-same-position/solution.java) | Easy | Java | 2026-09-17 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](LeetCode/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | Easy | Java | 2026-09-17 |
+| 1323 | [Maximum 69 Number](LeetCode/1323-maximum-69-number/solution.java) | Easy | Java | 2026-09-17 |
 | 1378 | [Replace Employee ID With The Unique Identifier](LeetCode/1378-replace-employee-id-with-the-unique-identifier/solution.sql) | Easy | MySQL | 2026-09-17 |
 | 1408 | [String Matching in an Array](LeetCode/1408-string-matching-in-an-array/solution.py) | Easy | Python3 | 2026-09-17 |
 | 1446 | [Consecutive Characters](LeetCode/1446-consecutive-characters/solution.java) | Easy | Java | 2026-09-17 |
@@ -208,6 +221,7 @@ Personal solutions synchronized automatically via **LeetCode GitHub Sync**.
 | 2299 | [Strong Password Checker II](LeetCode/2299-strong-password-checker-ii/solution.java) | Easy | Java | 2026-09-17 |
 | 2331 | [Evaluate Boolean Binary Tree](LeetCode/2331-evaluate-boolean-binary-tree/solution.java) | Easy | Java | 2026-09-17 |
 | 2396 | [Strictly Palindromic Number](LeetCode/2396-strictly-palindromic-number/solution.java) | Medium | Java | 2026-09-17 |
+| 2401 | [Longest Nice Subarray](LeetCode/2401-longest-nice-subarray/solution.py) | Medium | Python3 | 2026-09-17 |
 | 2520 | [Count the Digits That Divide a Number](LeetCode/2520-count-the-digits-that-divide-a-number/solution.java) | Easy | Java | 2026-09-17 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](LeetCode/2535-difference-between-element-sum-and-digit-sum-of-an-array/solution.java) | Easy | Java | 2026-09-17 |
 | 2652 | [Sum Multiples](LeetCode/2652-sum-multiples/solution.java) | Easy | Java | 2026-09-17 |
